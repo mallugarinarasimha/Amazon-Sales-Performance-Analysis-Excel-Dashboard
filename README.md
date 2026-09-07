@@ -10,3 +10,14 @@
 
 ## Dataset Used
 - <a href = "https://github.com/mallugarinarasimha/Amazon-Sales-Performance-Analysis-Excel-Dashboard/blob/main/amazon_sales_data%202025.xlsx">Dataset</a>
+
+## Questions (KPI) 
+- Category-wise total sales
+- Product-wise performance
+- City-wise total sales
+- Payment method usage
+- Order status distribution (Delivered, Cancelled, Pending)
+- Top customers by total spending
+
+
+
