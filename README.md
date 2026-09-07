@@ -32,3 +32,9 @@ Finally, an interactive Excel dashboard was created using PivotCharts, KPIs, and
 ### Screenshot 
 
 <img width="692" height="483" alt="amazon dashboard" src="https://github.com/user-attachments/assets/f6ad16a5-b02b-4057-ac7b-9c8e401d47e9" />
+
+### Conclusion
+
+The Amazon Sales Performance Analysis project demonstrates how Microsoft Excel can be used to transform raw e-commerce transaction data into meaningful business insights.
+Through data cleaning, preprocessing, PivotTable analysis, and dashboard development, the project provides an overview of product performance, category sales, customer locations, payment methods, and order status.
+The interactive dashboard makes it easier to monitor sales performance and supports data-driven decision-making for improving business operations and customer engagement.
