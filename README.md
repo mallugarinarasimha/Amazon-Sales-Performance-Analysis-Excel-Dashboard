@@ -22,4 +22,9 @@
 
 - Database interaction <a href = "https://github.com/mallugarinarasimha/Amazon-Sales-Performance-Analysis-Excel-Dashboard/blob/main/amazon%20dashboard.png">view DashBoard</a>
 
-- Pivot Table <a href = "https://github.com/mallugarinarasimha/Amazon-Sales-Performance-Analysis-Excel-Dashboard/blob/main/amazon_sales_data%202025.xlsx">pivot table</a> 
+- Pivot Table <a href = "https://github.com/mallugarinarasimha/Amazon-Sales-Performance-Analysis-Excel-Dashboard/blob/main/amazon_sales_data%202025.xlsx">pivot table</a>
+
+### Process
+- The Amazon sales data was loaded and cleaned by removing duplicates, checking missing values, and standardizing formats.
+The cleaned data was preprocessed and analyzed using PivotTables to identify sales, products, locations, payment methods, and order status.
+Finally, an interactive Excel dashboard was created using PivotCharts, KPIs, and slicers to present key insights.
